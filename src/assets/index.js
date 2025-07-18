@@ -18,7 +18,7 @@ import reactjs from "./tech/reactjs.png";
 import java from "./tech/java.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import matlab from "./tech/matlab.png";
 import git from "./tech/git.png";
 
 import dvc from "./company/dvc.png";
@@ -51,7 +51,7 @@ export {
   python,
   tailwind,
   typescript,
-  threejs,
+  matlab,
   carrent,
   jobit,
   tripguide,

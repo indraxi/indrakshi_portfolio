@@ -17,7 +17,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  matlab,
   cpp,
   dvc,
   aspirenex,
@@ -98,8 +98,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Matlab",
+    icon: matlab,
   },
   {
     name: "git",
